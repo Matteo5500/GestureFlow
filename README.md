@@ -2,10 +2,10 @@
 
 > Control your entire computer — mouse, scroll, and volume — using only your hand and a webcam. No mouse. No keyboard. No contact.
 
-![Demo](hand-gesture-controller/img/GestureFlow.gif)
-![Navigate](hand-gesture-controller/img/navigate-hand-gesture.png)
-![Click](hand-gesture-controller/img/click-hand-gesture.png)
-![Scroll](hand-gesture-controller/img/scroll-hand-gesture.png)
+![GestureFlow](hand-gesture-controller/img/GestureFlow.gif)
+![Navigate-hand-gesture](hand-gesture-controller/img/navigate-hand-gesture.png)
+![Click-hand-gesture](hand-gesture-controller/img/click-hand-gesture.png)
+![Scroll-hand-gesture](hand-gesture-controller/img/scroll-hand-gesture.png)
 
 
 ---
